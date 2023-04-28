@@ -20,7 +20,8 @@ Se habituar com o uso prático das ferramentas utilizadas no Asaas, entendendo o
 
 # Tecnologias utilizadas:
 - ``MySQL``
-- ``Java 8 / Grails 4``
+- ``Java 8``
+- ``Grails 4``
 - ``Visual Studio Code``
 
 
